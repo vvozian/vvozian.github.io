@@ -1,0 +1,13 @@
+.tobecontinue {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.tobecontinue > h2 {
+    color: #ddd;
+    font-size: 4em;
+    text-decoration: none;
+}
